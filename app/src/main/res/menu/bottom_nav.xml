@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:enabled="true"
+        android:icon="@drawable/home_24"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/productFragment"
+        android:enabled="true"
+        android:icon="@drawable/health_24"
+        android:title="@string/menu_product" />
+    <item
+        android:id="@+id/cartFragment"
+        android:enabled="true"
+        android:icon="@drawable/missions_24"
+        android:title="@string/menu_cart" />
+    <item
+        android:id="@+id/profileFragment"
+        android:enabled="true"
+        android:icon="@drawable/user_24"
+        android:title="@string/menu_profile" />
+</menu>
